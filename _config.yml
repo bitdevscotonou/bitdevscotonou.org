@@ -1,0 +1,40 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+collections : 
+  posts: 
+    output: true 
+    permalink: /:categories/:year-:month-:day-:title
+
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title: "BitDevs Cotonou"
+description: "BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols."
+
+# Leave out some files
+exclude: ["README.md", "Gemfile", "Gemfile.lock", ".sass-cache"]
+
+future: true
+
+# implementing i18n for EN | FR 
+languages: ["en", "fr"]
+default_lang : "fr"
+exclude_from_localizations: ["assets", "css", "js", "img","fonts"]
+
+# defaults configs 
+defaults:
+  - scope:
+      path: "_posts/en"
+    values:
+      lang: "en"
+      category: "en"
+  - scope:
+      path: "_posts/fr"
+    values:
+      lang: "fr"
+      category: "fr"

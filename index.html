@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home
+---
+
+
+  {% assign default_lang = site.default_lang | default : "en" %}
+
+  <script>
+    var userLang = navigator.language || navigator.userLanguage ; 
+    var lang = userLang.split('-')[0];
+
+    // check if language is supported 
+    var supportedLangs = ['en', 'fr']; 
+    var targetLang = supportedLangs.includes(userLang) ? userLang : '{{ default_lang }}' ; 
+
+    window.location.href = '/'+targetLang+'/'
+  </script>
+

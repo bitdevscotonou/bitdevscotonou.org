@@ -1,0 +1,20 @@
+---
+layout: default
+title: Meetings
+lang: fr
+---
+{{ page.lang }}
+<div class="Home">
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Socratic Seminars | Seminaire Socratique</h2>
+    {% for post in site.posts %}
+      {% if post.type == "socratic" and post.lang == page.lang %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }} - {{post.lang | upcase}}</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

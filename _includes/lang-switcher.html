@@ -1,0 +1,15 @@
+<div class="lang-switcher">
+    {% assign current_lang = page.lang | default: site.default_lang %}
+    {% assign languages =  "en,fr" | split: "," %}
+    
+    <select onchange="window.location.href=this.value">
+        {% for lang in languages %}
+            {% if lang == current_lang %}
+                <option value="{{ page.url }}" selected>{{ lang | upcase }}</option>
+            {% else %}
+                {% assign lang_path = page.url | replace_first: current_lang, lang %}
+                <option value="{{ lang_path }}">{{ lang | upcase }}</option>
+            {% endif %}
+        {% endfor %}
+    </select>
+</div>

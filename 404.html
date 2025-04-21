@@ -1,0 +1,13 @@
+---
+layout: default
+title: "404: Page not found"
+permalink: 404.html
+---
+
+<div>
+  {% if post.lang == page.lang %}
+    <h1>404: Page not found</h1>
+  {% else %}
+    <h1>404: Page non trouvé</h1>
+  {% endif %}
+</div>

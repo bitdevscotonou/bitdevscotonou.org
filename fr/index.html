@@ -1,0 +1,35 @@
+---
+layout: default
+lang: fr
+---
+
+<div class="Home">
+    <p class="Home-about">
+        BitDevs Cotonou est une communauté à Cotonou, au Bénin, pour ceux qui souhaitent discuter et participer à la recherche et au développement de Bitcoin et des protocoles associés à Cotonou.
+    </p>
+   
+    <div class="Home-posts">
+      <h2 class="Home-posts-title">Evennements récents et à venir</h2>
+      {% assign event_posts = 7 %}
+      {% assign counter = 0 %}
+     
+      {% for post in site.posts | where : "lang", page.lang %}
+        {% if post.lang == page.lang %}
+            
+        
+            {% if post.type == "socratic" or post.type == "whitepaper" and post.lang == page.lang %}
+                <div class="Home-posts-post">
+                    <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+                    <span class="Home-posts-post-arrow">&raquo;</span>
+                    <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+                </div>
+                {% assign counter = counter | plus: 1 %}
+                {% if counter == event_posts %}
+                    {% break %} {% comment %}exit the for loop{% endcomment %}
+                {% endif %}
+            {% endif %}
+        {% endif %}
+      {% endfor %}
+      <p><a href="/events.html">{{ site.data.i18n.[page.lang].common.read_more }}</a></p>
+    </div>
+</div>

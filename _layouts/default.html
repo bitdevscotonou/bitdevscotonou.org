@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html  lang="{{ page.lang | default: site.default_lang }}">
+
+{% include head.html %}
+
+<body>
+
+  <div class="Site">
+   
+    {% include lang-switcher.html %}
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+  <div>
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+
+menu:
+  - name: "A propos"
+    url: "/fr/about"
+  - name: "Luma"
+    url: "https://lu.ma/bitdevscotonou" 
+  - name: "Communauté"
+    url: "https://chat.whatsapp.com/IfsmzGeleeUBwvy1AJ6W9U"
+    external: true,
+  - name: "Twitter"
+    url: "https://x.com/BitdevsCotonou"
+    external: true 
+common: 
+  read_more:  "Lire plus"
+  posted_on: "Publié le"
