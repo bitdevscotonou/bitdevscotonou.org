@@ -27,3 +27,4 @@ Please [open a PR](https://github.com/AlphonseMehounme/BitdevsCotonou.git) to ad
 - [Bitdevs Abuja](https://x.com/BitDevsAbuja)
 - [Bitdevs Kaduna](https://x.com/BitDevsKaduna)
 - [Bitdevs Lagos](https://x.com/BitDevsLagos)
+- [Bitdevs Kano](https://x.com/BitdevsKano)
