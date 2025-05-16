@@ -4,7 +4,7 @@ layout: default
 
 As Bitcoin adoption grows, so do local communities of like-minded enthusiasts and builders eager to connect and learn. More cities are now hosting Bitdevs Meetups to foster these connections. Below is a growing list of these meetups in Africa.
 
-Please [open a PR](https://github.com/AlphonseMehounme/BitdevsCotonou.git) to add your city.
+Please [open a PR](https://github.com/bitdevscotonou/bitdevscotonou.org) to add your city.
 
 #### Benin 🇧🇯
 
@@ -26,5 +26,10 @@ Please [open a PR](https://github.com/AlphonseMehounme/BitdevsCotonou.git) to ad
 
 - [Bitdevs Abuja](https://x.com/BitDevsAbuja)
 - [Bitdevs Kaduna](https://x.com/BitDevsKaduna)
-- [Bitdevs Lagos](https://x.com/BitDevsLagos)
 - [Bitdevs Kano](https://x.com/BitdevsKano)
+- [Bitdevs Lagos](https://x.com/BitDevsLagos)
+- [Bitdevs Uyo](https://x.com/BitDevsUyo)
+
+#### Uganda 🇺🇬
+
+- [Bitdevs Kampala](https://x.com/BitDevsKLA)
