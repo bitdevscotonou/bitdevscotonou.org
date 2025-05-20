@@ -30,6 +30,10 @@ Please [open a PR](https://github.com/bitdevscotonou/bitdevscotonou.org) to add 
 - [Bitdevs Lagos](https://x.com/BitDevsLagos)
 - [Bitdevs Uyo](https://x.com/BitDevsUyo)
 
+#### South Africa 🇿🇦
+
+- [Bitdevs Joburg](https://x.com/BitDevsJHB)
+
 #### Uganda 🇺🇬
 
 - [Bitdevs Kampala](https://x.com/BitDevsKLA)
