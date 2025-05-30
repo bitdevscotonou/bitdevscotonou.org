@@ -37,3 +37,7 @@ Please [open a PR](https://github.com/bitdevscotonou/bitdevscotonou.org) to add 
 #### Uganda 🇺🇬
 
 - [Bitdevs Kampala](https://x.com/BitDevsKLA)
+
+#### Zambia 🇿🇲
+
+- [Bitdevs Zambia](https://x.com/bitdevszambia)
