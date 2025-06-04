@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-04-30T23:57:20+01:00</updated><id>/feed.xml</id><title type="html">BitDevs Cotonou</title><subtitle>BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.</subtitle><entry xml:lang="en"><title type="html">Socratic Seminar #3</title><link href="/en/2025-05-10-socratic-seminar-3" rel="alternate" type="text/html" title="Socratic Seminar #3" /><published>2025-05-10T00:00:00+01:00</published><updated>2025-05-10T00:00:00+01:00</updated><id>/en/socratic-seminar-3</id><content type="html" xml:base="/en/2025-05-10-socratic-seminar-3">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-06-04T17:19:37+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">BitDevs Cotonou</title><subtitle>BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.</subtitle><entry xml:lang="en"><title type="html">Seminar Socratic #4</title><link href="http://0.0.0.0:4000/en/2025-06-14-socratic-seminar-4" rel="alternate" type="text/html" title="Seminar Socratic #4" /><published>2025-06-14T00:00:00+00:00</published><updated>2025-06-14T00:00:00+00:00</updated><id>http://0.0.0.0:4000/en/socratic-seminar-4</id><content type="html" xml:base="http://0.0.0.0:4000/en/2025-06-14-socratic-seminar-4">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+
+&lt;p&gt;The event will be hosted at &lt;strong&gt;Ronelk Cosmetics&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Road before Orca Déco leaving “16 Ampoules” for Tokpa Market | Sikècodji, Cotonou | &lt;a href=&quot;https://maps.app.goo.gl/4MWFaaiG7PRBnbi88&quot;&gt;Map&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
+
+&lt;p&gt;We are glad to invite you to this month &lt;a href=&quot;/about&quot;&gt;Socratic Seminar&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Whether you are a full time developer, part-time developer, or simply curious, you are invited.&lt;/p&gt;
+
+&lt;p&gt;During this seminar, we’ll explore the rabbit hole in more technical terms. Based on the explanations and points of view exchanged, we’ll experiment with setting up a Bitcoin node on your personal computer and discover the node’s basic functionality.
+Special thanks to our sponsor &lt;a href=&quot;http://btrust.tech/&quot;&gt;Btrust&lt;/a&gt; for their support.&lt;/p&gt;
+
+&lt;h2 id=&quot;reminders&quot;&gt;Reminders&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We prefer no photos and no videos during the event&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.chathamhouse.org/about-us/chatham-house-rule&quot;&gt;Chatham House Rule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Leave the meeting space as clean as you found it&lt;/li&gt;
+  &lt;li&gt;Suggest topics for the next Socratic Seminar! &lt;a href=&quot;/topics&quot;&gt;Where to find topics?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;topics&quot;&gt;Topics&lt;/h1&gt;
+
+&lt;p&gt;We will discuss and experiment with the topics below:&lt;/p&gt;
+
+&lt;h3 id=&quot;why-have-your-own-bitcoin-node&quot;&gt;Why have your own Bitcoin node?&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/mehounme&quot;&gt;Alphonse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;install-bitcoin-node-and-lnd---useful-resources&quot;&gt;Install Bitcoin node and LND - Useful resources&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/mehounme&quot;&gt;Alphonse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-through-cli&quot;&gt;Bitcoin through CLI&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/heyolaniran&quot;&gt;Olaniran&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;build-and-decode-transactions-with-bitcoin-cli&quot;&gt;Build and decode transactions with Bitcoin CLI&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/heyolaniran&quot;&gt;Olaniran&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;upcoming-events--announcements&quot;&gt;Upcoming Events &amp;amp; Announcements&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/Loicbtc&quot;&gt;Loïc&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location The event will be hosted at Ronelk Cosmetics: Road before Orca Déco leaving “16 Ampoules” for Tokpa Market | Sikècodji, Cotonou | Map Announcements We are glad to invite you to this month Socratic Seminar! Whether you are a full time developer, part-time developer, or simply curious, you are invited. During this seminar, we’ll explore the rabbit hole in more technical terms. Based on the explanations and points of view exchanged, we’ll experiment with setting up a Bitcoin node on your personal computer and discover the node’s basic functionality. Special thanks to our sponsor Btrust for their support. Reminders We prefer no photos and no videos during the event Chatham House Rule Leave the meeting space as clean as you found it Suggest topics for the next Socratic Seminar! Where to find topics? Topics We will discuss and experiment with the topics below: Why have your own Bitcoin node? MC: Alphonse Install Bitcoin node and LND - Useful resources MC: Alphonse Bitcoin through CLI MC: Olaniran Build and decode transactions with Bitcoin CLI MC: Olaniran Upcoming Events &amp;amp; Announcements MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #4</title><link href="http://0.0.0.0:4000/fr/2025-06-14-socratic-seminar-4" rel="alternate" type="text/html" title="Seminaire Socratique #4" /><published>2025-06-14T00:00:00+00:00</published><updated>2025-06-14T00:00:00+00:00</updated><id>http://0.0.0.0:4000/fr/socratic-seminar-4</id><content type="html" xml:base="http://0.0.0.0:4000/fr/2025-06-14-socratic-seminar-4">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
+
+&lt;p&gt;L’événement se tiendra à &lt;strong&gt;Ronelk Cosmetics&lt;/strong&gt; :&lt;/p&gt;
+
+&lt;p&gt;Rue avant Orca Déco en quittant le carrefour 16 ampoules pour le marché Tokpa | Sikècodji, Cotonou | &lt;a href=&quot;https://maps.app.goo.gl/4MWFaaiG7PRBnbi88&quot;&gt;MAP&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;annonce&quot;&gt;Annonce&lt;/h2&gt;
+
+&lt;p&gt;Nous sommes ravi de vous inviter au &lt;a href=&quot;/about&quot;&gt;Séminaire Socratique&lt;/a&gt; de ce mois!&lt;/p&gt;
+
+&lt;p&gt;​Que vous soyez développeur en full time, en temps partiel ou simple curieux, vous êtes invité.&lt;/p&gt;
+
+&lt;p&gt;Durant ce séminaire, nous explorerons plus techniquement le terrier du Lapin. En nous basant sur les explications et points de vues échangées, nous expérimenterons l’installation d’un noeud Bitcoin sur votre ordinateur personnel et découvrirons les fonctionnalités de base de ce noeud.&lt;/p&gt;
+
+&lt;p&gt;Nous remercions tout particulièrement notre sponsor &lt;a href=&quot;http://btrust.tech/&quot;&gt;Btrust&lt;/a&gt; pour son soutien.&lt;/p&gt;
+
+&lt;h2 id=&quot;rappels&quot;&gt;Rappels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nous préférons pas de photos ni de vidéos pendant l’événement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.chathamhouse.org/about-us/chatham-house-rule&quot;&gt;Règle de Chatham House&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Laissez l’espace de réunion aussi propre que vous l’avez trouvé&lt;/li&gt;
+  &lt;li&gt;Suggérez des sujets pour le prochain Séminaire Socratique ! &lt;a href=&quot;/topics&quot;&gt;Où trouver des sujets ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;sujets&quot;&gt;Sujets&lt;/h1&gt;
+
+&lt;p&gt;Nous discuterons et expérimenterons les topics ci-dessous :&lt;/p&gt;
+
+&lt;h3 id=&quot;pourquoi-avoir-son-propre-noeud-bitcoin-&quot;&gt;Pourquoi avoir son propre noeud Bitcoin ?&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/mehounme&quot;&gt;Alphonse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;installation-dun-noeud-bitcoin-et-dun-noeud-lightning-lnd---ressources-utiles&quot;&gt;Installation d’un noeud Bitcoin et d’un noeud Lightning (LND) - Ressources utiles&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/mehounme&quot;&gt;Alphonse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;bitcoin-dans-votre-terminal&quot;&gt;Bitcoin dans votre terminal&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/heyolaniran&quot;&gt;Olaniran&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;construire-et-décortiquer-des-transactions-avec-bitcoin-cli&quot;&gt;Construire et décortiquer des transactions avec Bitcoin CLI&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/heyolaniran&quot;&gt;Olaniran&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;événements-à-venir--annonces&quot;&gt;Événements à Venir &amp;amp; Annonces&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;MC: &lt;a href=&quot;https://x.com/Loicbtc&quot;&gt;Loïc&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Annonce et Prochains Meetups&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu L’événement se tiendra à Ronelk Cosmetics : Rue avant Orca Déco en quittant le carrefour 16 ampoules pour le marché Tokpa | Sikècodji, Cotonou | MAP Annonce Nous sommes ravi de vous inviter au Séminaire Socratique de ce mois! ​Que vous soyez développeur en full time, en temps partiel ou simple curieux, vous êtes invité. Durant ce séminaire, nous explorerons plus techniquement le terrier du Lapin. En nous basant sur les explications et points de vues échangées, nous expérimenterons l’installation d’un noeud Bitcoin sur votre ordinateur personnel et découvrirons les fonctionnalités de base de ce noeud. Nous remercions tout particulièrement notre sponsor Btrust pour son soutien. Rappels Nous préférons pas de photos ni de vidéos pendant l’événement Règle de Chatham House Laissez l’espace de réunion aussi propre que vous l’avez trouvé Suggérez des sujets pour le prochain Séminaire Socratique ! Où trouver des sujets ? Sujets Nous discuterons et expérimenterons les topics ci-dessous : Pourquoi avoir son propre noeud Bitcoin ? MC: Alphonse Installation d’un noeud Bitcoin et d’un noeud Lightning (LND) - Ressources utiles MC: Alphonse Bitcoin dans votre terminal MC: Olaniran Construire et décortiquer des transactions avec Bitcoin CLI MC: Olaniran Événements à Venir &amp;amp; Annonces MC: Loïc Annonce et Prochains Meetups</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #3</title><link href="http://0.0.0.0:4000/en/2025-05-10-socratic-seminar-3" rel="alternate" type="text/html" title="Socratic Seminar #3" /><published>2025-05-10T00:00:00+00:00</published><updated>2025-05-10T00:00:00+00:00</updated><id>http://0.0.0.0:4000/en/socratic-seminar-3</id><content type="html" xml:base="http://0.0.0.0:4000/en/2025-05-10-socratic-seminar-3">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
 
 &lt;p&gt;The event will be hosted at &lt;strong&gt;Ronelk Cosmetics&lt;/strong&gt;:&lt;/p&gt;
 
@@ -58,7 +179,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #3</title><link href="/fr/2025-05-10-socratic-seminar-3" rel="alternate" type="text/html" title="Seminaire Socratique #3" /><published>2025-05-10T00:00:00+01:00</published><updated>2025-05-10T00:00:00+01:00</updated><id>/fr/socratic-seminar-3</id><content type="html" xml:base="/fr/2025-05-10-socratic-seminar-3">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location The event will be hosted at Ronelk Cosmetics: Road before Orca Déco leaving “16 Ampoules” for Tokpa Market | Sikècodji, Cotonou | Map Announcements We are glad to invite you to this month Socratic Seminar! Whether you are a full time developer, part-time developer, or simply curious, you are invited. At this meetup we’ll cover the latest developments on Bitcoin and do a hands-on workshop on understanding Bitcoin transactions with Decoding Bitcoin platform. Please join us for another exploration of Bitcoin’s technical rabbit hole. Book your seat HERE and check the agenda below. We look forward to seeing you. A special thanks to our sponsor Btrust for their support. Reminders We prefer no photos and no videos during the event Chatham House Rule Leave the meeting space as clean as you found it Suggest topics for the next Socratic Seminar! Where to find topics? Topics Latest developments on Bitcoin MC: Alphonse bitcoin/bitcoin #32359 Remove arbitrary limits on OP_Return Bitcoin Optech newsletter #351 &amp;amp; #352 Workshop : Understanding Bitcoin transactions with Decoding Bitcoin MC: Abdias Bitcoin transaction with Decoding Bitcoin Upcoming Events &amp;amp; Announcements MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #3</title><link href="http://0.0.0.0:4000/fr/2025-05-10-socratic-seminar-3" rel="alternate" type="text/html" title="Seminaire Socratique #3" /><published>2025-05-10T00:00:00+00:00</published><updated>2025-05-10T00:00:00+00:00</updated><id>http://0.0.0.0:4000/fr/socratic-seminar-3</id><content type="html" xml:base="http://0.0.0.0:4000/fr/2025-05-10-socratic-seminar-3">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
 
 &lt;p&gt;L’événement se tiendra à &lt;strong&gt;Ronelk Cosmetics&lt;/strong&gt; :&lt;/p&gt;
 
@@ -118,7 +239,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Annonce et Prochains Meetups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #2</title><link href="/en/2025-04-19-socratic-seminar-2" rel="alternate" type="text/html" title="Socratic Seminar #2" /><published>2025-04-19T00:00:00+01:00</published><updated>2025-04-19T00:00:00+01:00</updated><id>/en/socratic-seminar-2</id><content type="html" xml:base="/en/2025-04-19-socratic-seminar-2">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu L’événement se tiendra à Ronelk Cosmetics : Rue avant Orca Déco en quittant le carrefour 16 ampoules pour le marché Tokpa | Sikècodji, Cotonou | MAP Annonce Nous sommes ravi de vous inviter au Séminaire Socratiquie de ce mois! ​Que vous soyez développeur en full time, en temps partiel ou simple curieux, vous êtes invité. ​Lors de ce meetup nous aborderons les derniers dévelopements sur Bitcoin et nous ferons un atelier sur le fonctionnement des transactions Bitcoin avec la plateforme Decoding Bitcoin. Veuillez nous rejoindre pour une nouvelle exploration du terrier technique de Bitcoin. Reservez votre place ICI et consultez l’agenda ci-dessous. ​Nous avons hâte de vous retrouver. Nous remercions tout particulièrement notre sponsor Btrust pour son soutien. Rappels Nous préférons pas de photos ni de vidéos pendant l’événement Règle de Chatham House Laissez l’espace de réunion aussi propre que vous l’avez trouvé Suggérez des sujets pour le prochain Séminaire Socratique ! Où trouver des sujets ? Sujets ​Les derniers développements sur Bitcoin MC: Alphonse bitcoin/bitcoin #32359 Retrait de la limite arbitraire sur le opcode OP_RETURN Bitcoin Optech newsletter #351 &amp;amp; #352 Atelier : Comprendre le fonctionnement des transaction Bitcoin avec Decoding Bitcoin MC: Abdias Comprendre les transactions Bitcoin avec Decoding Bitcoin Événements à Venir &amp;amp; Annonces MC: Loïc Annonce et Prochains Meetups</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #2</title><link href="http://0.0.0.0:4000/en/2025-04-19-socratic-seminar-2" rel="alternate" type="text/html" title="Socratic Seminar #2" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>http://0.0.0.0:4000/en/socratic-seminar-2</id><content type="html" xml:base="http://0.0.0.0:4000/en/2025-04-19-socratic-seminar-2">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
 
 &lt;p&gt;The event will be hosted at &lt;strong&gt;J Reside&lt;/strong&gt;:&lt;/p&gt;
 
@@ -178,7 +299,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #2</title><link href="/fr/2025-04-19-socratic-seminar-2" rel="alternate" type="text/html" title="Seminaire Socratique #2" /><published>2025-04-19T00:00:00+01:00</published><updated>2025-04-19T00:00:00+01:00</updated><id>/fr/socratic-seminar-2</id><content type="html" xml:base="/fr/2025-04-19-socratic-seminar-2">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location The event will be hosted at J Reside: Road of Ecobank | Gbèdjromèdé, Cotonou | Map Announcements We are glad to invite you to this month Socratic Seminar! Whether you are a developer, an aspiring developer, or simply curious, you are welcome at our meetup. At this meetup we’ll cover the latest developments on Bitcoin and Lightning and do a hands-on workshop on developing bitcoin products using the Bitnob API. Please join us for another exploration of Bitcoin’s technical rabbit hole. Book your seat HERE and check the agenda below. We look forward to seeing you. A special thanks to our sponsor Btrust for their support. Reminders We prefer no photos and no videos during the event Chatham House Rule Leave the meeting space as clean as you found it Suggest topics for the next Socratic Seminar! Where to find topics? Topics Latest developments on Bitcoin and Lightning MC: Alphonse Breez Introduce Misty Breez Bitcoin Optech newsletter #348 Workshop : Building bitcoin products using the Bitnob API MC: Alphonse Building with Bitnob API Upcoming Events &amp;amp; Announcements MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #2</title><link href="http://0.0.0.0:4000/fr/2025-04-19-socratic-seminar-2" rel="alternate" type="text/html" title="Seminaire Socratique #2" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>http://0.0.0.0:4000/fr/socratic-seminar-2</id><content type="html" xml:base="http://0.0.0.0:4000/fr/2025-04-19-socratic-seminar-2">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
 
 &lt;p&gt;L’événement se tiendra au &lt;strong&gt;J Reside&lt;/strong&gt; :&lt;/p&gt;
 
@@ -238,7 +359,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Annonce et Prochains Meetups&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #1</title><link href="/en/2025-03-22-socratic-seminar-1" rel="alternate" type="text/html" title="Socratic Seminar #1" /><published>2025-03-22T00:00:00+01:00</published><updated>2025-03-22T00:00:00+01:00</updated><id>/en/socratic-seminar-1</id><content type="html" xml:base="/en/2025-03-22-socratic-seminar-1">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu L’événement se tiendra au J Reside : Route d’Ecobank | Gbèdjromèdé, Cotonou | MAP Annonce Nous sommes ravi de vous inviter au Séminaire Socratiquie de ce mois! ​Que vous soyez développeur, développeur en devenir ou simple curieux, vous avez votre place à notre meetup. ​Lors de ce meetup nous aborderons les derniers dévelopements sur Bitcoin et Lightning et nous ferons un atelier pratique sur le dévelopement de produits bitcoin en utilisant l’API de Bitnob. Veuillez nous rejoindre pour une nouvelle exploration du terrier technique de Bitcoin. Reservez votre place ICI et consultez l’agenda ci-dessous. ​Nous avons hâte de vous retrouver. Nous remercions tout particulièrement notre sponsor Btrust pour son soutien. Rappels Nous préférons pas de photos ni de vidéos pendant l’événement Règle de Chatham House Laissez l’espace de réunion aussi propre que vous l’avez trouvé Suggérez des sujets pour le prochain Séminaire Socratique ! Où trouver des sujets ? Sujets ​Les derniers développements sur Bitcoin et Lightning MC: Alphonse Breez Annonce Misty Breez Bitcoin Optech newsletter #348 Séance Pratique : Développement de produit Bitcoin avec l’API de Bitnob MC: Alphonse Développement avec l’API de Bitnob Événements à Venir &amp;amp; Annonces MC: Loïc Annonce et Prochains Meetups</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #1</title><link href="http://0.0.0.0:4000/en/2025-03-22-socratic-seminar-1" rel="alternate" type="text/html" title="Socratic Seminar #1" /><published>2025-03-22T00:00:00+00:00</published><updated>2025-03-22T00:00:00+00:00</updated><id>http://0.0.0.0:4000/en/socratic-seminar-1</id><content type="html" xml:base="http://0.0.0.0:4000/en/2025-03-22-socratic-seminar-1">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
 
 &lt;p&gt;The event will be hosted at &lt;strong&gt;J Reside&lt;/strong&gt;:&lt;/p&gt;
 
@@ -299,7 +420,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #1</title><link href="/fr/2025-03-22-socratic-seminar-1" rel="alternate" type="text/html" title="Seminaire Socratique #1" /><published>2025-03-22T00:00:00+01:00</published><updated>2025-03-22T00:00:00+01:00</updated><id>/fr/socratic-seminar-1</id><content type="html" xml:base="/fr/2025-03-22-socratic-seminar-1">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location The event will be hosted at J Reside: Road of Ecobank | Gbèdjromèdé, Cotonou | Map Announcements We are glad to invite you to this month Socratic Seminar! Whether you are a developer, an aspiring developer, or simply curious, you are welcome at our meetup. During this meetup, we will cover two main topics: Career opportunities for Bitcoin developers and How Bitcoin works technically. If you’re interested in any of these topics or want to learn more about Bitcoin’s technical side, book your spot HERE and check out the agenda below. We look forward to seeing you. A special thanks to our sponsor Btrust for their support. Reminders We prefer no photos and no videos during the event Chatham House Rule Leave the meeting space as clean as you found it Suggest topics for the next Socratic Seminar! Where to find topics? Topics Career opportunities for Developers MC: Alphonse Skills Career Paths Contributing to Bitcoin : Case of Bitcoin Core Workshop : How does Bitcoin work ? MC: Abdias Understand how Bitcoin works by Saving Satoshi Upcoming Events &amp;amp; Announcements MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #1</title><link href="http://0.0.0.0:4000/fr/2025-03-22-socratic-seminar-1" rel="alternate" type="text/html" title="Seminaire Socratique #1" /><published>2025-03-22T00:00:00+00:00</published><updated>2025-03-22T00:00:00+00:00</updated><id>http://0.0.0.0:4000/fr/socratic-seminar-1</id><content type="html" xml:base="http://0.0.0.0:4000/fr/2025-03-22-socratic-seminar-1">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
 
 &lt;p&gt;L’événement se tiendra au &lt;strong&gt;J Reside&lt;/strong&gt; :&lt;/p&gt;
 
@@ -360,7 +481,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #0</title><link href="/en/2025-02-22-socratic-seminar-0" rel="alternate" type="text/html" title="Socratic Seminar #0" /><published>2025-02-22T00:00:00+01:00</published><updated>2025-02-22T00:00:00+01:00</updated><id>/en/socratic-seminar-0</id><content type="html" xml:base="/en/2025-02-22-socratic-seminar-0">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu L’événement se tiendra au J Reside : Route d’Ecobank | Gbèdjromèdé, Cotonou | MAP Annonce Nous sommes ravi de vous inviter au Séminaire Socratiquie de ce mois! ​Que vous soyez développeur, développeur en devenir ou simple curieux, vous avez votre place à notre meetup. ​Lors de ce meetup nous aborderons deux sujets principaux : Opportunités de carrière pour développeurs sur Bitcoin et Comment fonctionne Bitcoin techniquement. ​Si un des sujets vous intéresse ou si vous souhaitez apprendre plus sur la partie technique de Bitcoin, prenez le rendez-vous ICI et consultez l’agenda ci-dessous. ​Nous avons hâte de vous retrouver. Nous remercions tout particulièrement notre sponsor Btrust pour son soutien. Rappels Nous préférons pas de photos ni de vidéos pendant l’événement Règle de Chatham House Laissez l’espace de réunion aussi propre que vous l’avez trouvé Suggérez des sujets pour le prochain Séminaire Socratique ! Où trouver des sujets ? Sujets ​Opportunités de carrière pour devs sur Bitcoin MC: Alphonse Compétences à avoir Options de carrières Contribuer à Bitcoin : Cas de Bitcoin Core Séance Pratique : Comment fonctionne Bitcoin ? MC: Abdias Comprendre Bitcoin en sauvant Satoshi Événements à Venir &amp;amp; Annonces MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="en"><title type="html">Socratic Seminar #0</title><link href="http://0.0.0.0:4000/en/2025-02-22-socratic-seminar-0" rel="alternate" type="text/html" title="Socratic Seminar #0" /><published>2025-02-22T00:00:00+00:00</published><updated>2025-02-22T00:00:00+00:00</updated><id>http://0.0.0.0:4000/en/socratic-seminar-0</id><content type="html" xml:base="http://0.0.0.0:4000/en/2025-02-22-socratic-seminar-0">&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
 
 &lt;p&gt;The event will be hosted at &lt;strong&gt;J Reside&lt;/strong&gt;:&lt;/p&gt;
 
@@ -437,7 +558,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Next Meetups and Annoucements&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #0</title><link href="/fr/2025-02-22-socratic-seminar-0" rel="alternate" type="text/html" title="Seminaire Socratique #0" /><published>2025-02-22T00:00:00+01:00</published><updated>2025-02-22T00:00:00+01:00</updated><id>/fr/socratic-seminar-0</id><content type="html" xml:base="/fr/2025-02-22-socratic-seminar-0">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="en" /><summary type="html">Location The event will be hosted at J Reside: Road of Ecobank | Gbèdjromèdé, Cotonou | Map Announcements We are glad to invite you to our First Bitcoin Socratic Seminar! At this seminar, we will present Bitdevs Cotonou, its vision &amp;amp; mission and a brief introduction to Bitcoin Development and career paths it offers. Plus some members will share about their journey. A special thank you to our sponsor Btrust for support. Reminders We prefer no photos and no videos during the event Chatham House Rule Leave the meeting space as clean as you found it Suggest topics for the next Socratic Seminar! Where to find topics? Topics Bitdevs &amp;amp; Bitdevs Cotonou MC: Alphonse Bitdevs Bitdevs Cotonou Mision, Vision &amp;amp; Plans Programes &amp;amp; Ressources BOSS Program MC: Abdias Journey in BOSS Summer of Bitcoin MC: Loïc &amp;amp; William Loïc’s experience and recommendations William’s journey Bitcoin Development MC: Alphonse Introduction to Bitcoin Development : Trainings &amp;amp; Career Paths Upcoming Events &amp;amp; Announcements MC: Loïc Next Meetups and Annoucements</summary></entry><entry xml:lang="fr"><title type="html">Seminaire Socratique #0</title><link href="http://0.0.0.0:4000/fr/2025-02-22-socratic-seminar-0" rel="alternate" type="text/html" title="Seminaire Socratique #0" /><published>2025-02-22T00:00:00+00:00</published><updated>2025-02-22T00:00:00+00:00</updated><id>http://0.0.0.0:4000/fr/socratic-seminar-0</id><content type="html" xml:base="http://0.0.0.0:4000/fr/2025-02-22-socratic-seminar-0">&lt;h2 id=&quot;lieu&quot;&gt;Lieu&lt;/h2&gt;
 
 &lt;p&gt;L’événement se tiendra au &lt;strong&gt;J Reside&lt;/strong&gt; :&lt;/p&gt;
 
@@ -503,4 +624,4 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;&quot;&gt;Prochains Meetups et Annonces&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="fr" /><summary type="html">Lieu L’événement se tiendra au J Reside : Route d’Ecobank Gbèdjromèdé, Cotonou Plan Annonces Nous sommes heureux de vous inviter à notre premier Séminaire Socratique Bitcoin ! Lors de ce séminaire, nous présenterons Bitdevs Cotonou, sa vision et sa mission, ainsi qu’une brève introduction au développement Bitcoin et aux carrières qu’il offre. De plus, certains membres partageront leur parcours. Un grand merci à notre sponsor Btrust pour son soutien. Rappels Nous préférons pas de photos ni de vidéos pendant l’événement Règle de Chatham House Laissez l’espace de réunion aussi propre que vous l’avez trouvé Suggérez des sujets pour le prochain Séminaire Socratique ! Où trouver des sujets ? Sujets Bitdevs &amp;amp; Bitdevs Cotonou MC : Alphonse Bitdevs Bitdevs Cotonou Mission, Vision &amp;amp; Plans Programmes &amp;amp; Ressources Programme BOSS MC : Abdias Parcours dans BOSS Summer of Bitcoin MC : Loïc &amp;amp; William Expérience et recommandations de Loïc Parcours de William Développement Bitcoin MC : Alphonse Introduction au Développement Bitcoin : Formations et Parcours Professionnels Événements à Venir &amp;amp; Annonces MC : Loïc Prochains Meetups et Annonces</summary></entry></feed>
