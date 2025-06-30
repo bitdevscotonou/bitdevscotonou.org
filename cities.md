@@ -18,7 +18,7 @@ Please [open a PR](https://github.com/bitdevscotonou/bitdevscotonou.org) to add 
 
 - [Bitdevs Douala](https://x.com/BitDevsDLA)
 
-#### Democratic Republic of the Congo 🇨🇩
+#### DR Congo 🇨🇩
 
 - [Bitdevs Goma](https://x.com/BitdevsGoma)
 
