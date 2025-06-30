@@ -10,9 +10,17 @@ Please [open a PR](https://github.com/bitdevscotonou/bitdevscotonou.org) to add 
 
 - [Bitdevs Cotonou](https://x.com/BitdevsCotonou)
 
+#### Burundi 🇧🇮
+
+- [Bitdevs Bitega](https://x.com/bitdevsgtga)
+
 #### Cameroon 🇨🇲
 
 - [Bitdevs Douala](https://x.com/BitDevsDLA)
+
+#### Democratic Republic of the Congo 🇨🇩
+
+- [Bitdevs Goma](https://x.com/BitdevsGoma)
 
 #### Ghana 🇬🇭
 
